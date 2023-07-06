@@ -1,3 +1,8 @@
+body{
+    
+    background-color: #191919;
+}
+
 .navbar{
     list-style-type: none;
     padding: 0;
@@ -15,7 +20,19 @@
     color:aliceblue;
     display: inline-block;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 12px;
+    padding: 6px;
+   
+    
+    
+}
+
+.navbar li:last-child{
+    color:aliceblue;
+    display: inline-block;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding: 6px; */
+    margin-right: 100px;
+    
     
 }
 
